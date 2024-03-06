@@ -15,7 +15,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](nlp.png)
     
 ```python
 for word in visualize_words:
